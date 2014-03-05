@@ -12,6 +12,8 @@
   </head>
 
   <body>
+    
+    <% if user_signed_in? %><%= render 'layouts/header' %><%end%>
     <div class="row">
       <div class="small-8 small-centered column">
         <p class="notice"><%= notice %></p>

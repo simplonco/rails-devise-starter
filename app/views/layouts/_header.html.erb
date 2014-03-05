@@ -1,0 +1,16 @@
+<nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+      <h1><%= link_to "Test app", root_path %></h1>
+    </li>
+  </ul>
+
+  <section class="top-bar-section">
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li>
+        <%= link_to "Déconnexion", destroy_user_session_path, :method => :delete %>
+      </li>
+    </ul>
+  </section>
+</nav>
