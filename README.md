@@ -2,8 +2,9 @@
 
 Cette application générique peut servir à tester de nouvelles fonctionnalités.
 
-Fonctions installées : 
+Règles d'utilisation : Forkez !
 
-Foundation
-Devise
-formtastic
+##Gems installées :
+*gem 'foundation-rails'
+*gem 'devise'
+*gem 'pry-rails'
