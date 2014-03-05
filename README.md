@@ -1,5 +1,9 @@
-Test app
+#Test app
 
-Cette application générique peut servir à tester de nouvelles fonctionnalités. 
+Cette application générique peut servir à tester de nouvelles fonctionnalités.
 
-Fonctions installées : Devise
+Fonctions installées : 
+
+Foundation
+Devise
+formtastic
